@@ -54,20 +54,6 @@ Take a look at the live project deployed on Netlify
 
 ## Preview
 
-**DESKTOP  --------------------------------------------------------------------------**
-
-<img src="https://github.com/Sky-De/TypeScript-ToDoApp/assets/79264045/9bf22516-c94a-4968-aa63-acede22b8a1e" width="60%">
-
-
-
-**Mobile --------------------------------------------------------------------------**
-
-<img src="https://github.com/Sky-De/TypeScript-ToDoApp/assets/79264045/b1781f97-3cc8-44a7-a4fa-b8f126d4937f" width="270">
-
-<img src="https://github.com/Sky-De/TypeScript-ToDoApp/assets/79264045/2bdd847a-2f91-42b9-bb9d-29c07fe7f354" width="270">
-
-<img src="https://github.com/Sky-De/TypeScript-ToDoApp/assets/79264045/1de0fb8f-705f-48ff-8d0b-57321320ac96" width="270">
-
 ![line]
 
 ## About
@@ -102,7 +88,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/TypeScript-ToDoApp
+git clone https://github.com/Ghassan-SkyDe/TypeScript-ToDoApp
 
 # Change directory
 cd your-repo-name
@@ -118,10 +104,6 @@ npm run start
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
-**skyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
-
-[GitHub](https://github.com/Sky-De)
-
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[GitHub](https://github.com/Ghassan-SkyDe)
